@@ -1,0 +1,5 @@
+.vscode
+build
+Boost/Tcp/Client/main.cpp
+Boost/Tcp/Server/main.cpp
+ECS/main.cpp
